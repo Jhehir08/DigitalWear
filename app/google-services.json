@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65291274051",
+    "firebase_url": "https://digitalwear-c3df6.firebaseio.com",
+    "project_id": "digitalwear-c3df6",
+    "storage_bucket": "digitalwear-c3df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65291274051:android:f088823dd8694ae4",
+        "android_client_info": {
+          "package_name": "com.example.joe.digitalwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65291274051-6ir523v3o0pa1di9s4rqvj1gr5i240il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joe.digitalwear",
+            "certificate_hash": "282382f02fafd0d7876d56f279932553419a7152"
+          }
+        },
+        {
+          "client_id": "65291274051-ilnu3lpn501u35ih5tga6v7a8q2a6hh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO-MvmpbrIY3qN_gN76Eixy77h0AbZ9_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65291274051-ilnu3lpn501u35ih5tga6v7a8q2a6hh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

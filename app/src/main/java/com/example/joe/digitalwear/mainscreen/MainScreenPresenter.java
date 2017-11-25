@@ -42,6 +42,8 @@ public class MainScreenPresenter implements MainScreenContract.Presenter {
 
                     @Override
                     public void onNext(List<Post> posts) {
+                        view.setUpFirebase();
+                        view.setUpPosts();
                         view.showPosts(posts);
                     }
                 });
